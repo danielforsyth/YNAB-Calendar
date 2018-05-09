@@ -10,7 +10,7 @@ Calendar shows sum of all transactions for each day of the current month.
 Built on top of:
   - https://github.com/rienafairefr/pynYNAB
   - https://github.com/sukeesh/flask-calendar
-  -https://fullcalendar.io/
+  - https://fullcalendar.io/
   
   
 ## Usage
