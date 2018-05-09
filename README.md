@@ -2,6 +2,11 @@
 
 Calendar shows sum of all transactions for each day of the current month.
 
+
+![alt text](https://github.com/danielforsyth/YNAB-Calendar/blob/master/screen_shot.png)
+
+
+
 Built on top of:
   - https://github.com/rienafairefr/pynYNAB
   - https://github.com/sukeesh/flask-calendar
